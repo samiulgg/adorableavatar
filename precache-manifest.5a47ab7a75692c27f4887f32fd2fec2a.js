@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "296ad9eaa4ecda413fc485371f3a1b3c",
+    "revision": "87bf8cb7317a66ed618052f5762b6de0",
     "url": "/adorableavatar/index.html"
   },
   {
-    "revision": "a2d84e8a9c28f989297d",
+    "revision": "d2d45a21a9059237b57b",
     "url": "/adorableavatar/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "12f0a206040746643836",
+    "revision": "cb818edb36bf371a900c",
     "url": "/adorableavatar/static/css/main.aca72c8e.chunk.css"
   },
   {
-    "revision": "a2d84e8a9c28f989297d",
-    "url": "/adorableavatar/static/js/2.66cf0927.chunk.js"
+    "revision": "d2d45a21a9059237b57b",
+    "url": "/adorableavatar/static/js/2.1fb50dd1.chunk.js"
   },
   {
-    "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/adorableavatar/static/js/2.66cf0927.chunk.js.LICENSE"
+    "revision": "e928fe768baa9832b5bc57eae021f30c",
+    "url": "/adorableavatar/static/js/2.1fb50dd1.chunk.js.LICENSE"
   },
   {
-    "revision": "12f0a206040746643836",
-    "url": "/adorableavatar/static/js/main.a64be2f4.chunk.js"
+    "revision": "cb818edb36bf371a900c",
+    "url": "/adorableavatar/static/js/main.93b110e1.chunk.js"
   },
   {
     "revision": "6c68c0ae459a516f20ca",
