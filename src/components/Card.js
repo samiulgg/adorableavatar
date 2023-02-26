@@ -3,7 +3,7 @@ import React from 'react';
 const Card = ( { name , email , id } ) => {
 	return (
 		<div className='tc bg-light-blue dib br3 pa1 ma2 grow bw2 shadow-5'>
-			<img src={`https://api.adorable.io/avatars/300/${id}`} alt="robots"/>
+			<img src={`https://robohash.org/${id}?set=set4`} alt="robots"/>
 			<div>
 				<h2 className="red">{name}</h2>
 				<p>{email}</p>
